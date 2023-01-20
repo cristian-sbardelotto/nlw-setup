@@ -16,7 +16,15 @@ header {
   align-items: center;
   justify-content: space-between;
 
+  width: 100%;
+
   padding: 48px;
+
+  position: fixed;
+
+  background-color: #09090a;
+
+  border: 1px solid red;
 }
 
 button {
@@ -35,12 +43,15 @@ button {
   font-weight: 600;
 
   line-height: 125%;
+
+  cursor: pointer;
 }
 
-form {
+#form-habits {
   display: flex;
 
-  padding:  0 48px;
+  padding: 182px 48px 48px;
+  width: fit-content;
 }
 
 .habits {
@@ -78,7 +89,7 @@ form {
 
   font-family: "Roboto Mono";
   font-size: 20px;
-  line-height: 125%; 
+  line-height: 125%;
 
   color: #a1a1aa;
 
@@ -102,4 +113,9 @@ input:checked {
   background-color: #8b5cf6;
 
   border: 2px solid #a78bfa;
+}
+@media (max-width: 570px) {
+  button span {
+    display: none;
+  }
 }
