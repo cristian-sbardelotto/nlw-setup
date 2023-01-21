@@ -23,8 +23,6 @@ header {
   position: fixed;
 
   background-color: #09090a;
-
-  border: 1px solid red;
 }
 
 button {
@@ -39,7 +37,7 @@ button {
   align-items: center;
   gap: 12px;
 
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 600;
 
   line-height: 125%;
@@ -87,7 +85,7 @@ button {
 .day div {
   margin-bottom: 8px;
 
-  font-family: "Roboto Mono";
+  font-family: 'Roboto Mono';
   font-size: 20px;
   line-height: 125%;
 
