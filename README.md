@@ -39,7 +39,7 @@ The project simulates an habit manager, provided by Rocketseat.
 > To see the Figma of the project, use [THIS LINK](https://www.figma.com/file/pSomE34rxLfoYDDtPFNglq/Habits-(e)-(Community)?node-id=75%3A128&t=7S1EpUGB1ww8kIS5-0)
 
 
-> To see the Deploy, check [THIS LINK](https://cristian-sbardelotto.github.io/nlw-setup/)
+> To see the Deploy, check [THIS LINK](https://nlw-setup-ivory.vercel.app/)
 
 <br />
 
